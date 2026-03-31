@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.pams.PAMSAppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-31T20:01:36.291Z" hostname="tpmac.local" time="0.021">
+  <properties/>
+  <testcase name="buildPatientJson_sortsByAgeDescending_andIncludesAge()" classname="com.example.pams.PAMSAppTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
